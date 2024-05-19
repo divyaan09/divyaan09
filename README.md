@@ -1,7 +1,7 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)]
 <h1 align="center">Hi 👋, I'm Divyanshu Raj</h1>
 <h3 align="center">A passionate software developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://shorturl.at/ZuvCv")
+<img align="middle" alt="Coding" width="400" src="https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyaan09&label=Profile%20views&color=0e75b6&style=flat" alt="divyaan09" /> </p>
 
