@@ -10,13 +10,12 @@
 
 <p align="left"> <a href="https://twitter.com/09_divyaan" target="blank"><img src="https://img.shields.io/twitter/follow/09_divyaan?logo=twitter&style=for-the-badge" alt="09_divyaan" /></a> </p>
 
-- 🔭 I’m currently working on **Personal Portfolio Designing**
-
-- 🌱 I’m currently learning **Frontend**
-
-- 💬 Ask me about **Python C HTML CSS JavaScript Java**
-
-- 📫 How to reach me **me.divyanshuraj@gmail.com**
+- 🔭 I’m currently working on ’ Portfolio Website Designing '
+- 👯 I’m looking to collaborate on ’ Frontend Projects '
+- 🤝 I’m looking for help with ’ Proper Roadmap '
+- 🌱 I’m currently learning ’ Java '
+- 💬 Ask me about ’ Anything Related to My Skill Set '
+- ⚡ Fun fact ’ i will tell you when we meet ’
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
